@@ -11,7 +11,7 @@
 <p align="center">
   <img src="assets/screenshots/landing_page.png" width="200" alt="Landing Page">
   <img src="assets/screenshots/dashboard.png" width="200" alt="Dashboard">
-  <img src="assets/screenshots/scan_ai.png" width="200" alt="AI Scan">
+  <img src="assets/screenshots/detail_sheet.png" width="200" alt="Detail Sheet">
 </p>
 
 ---
